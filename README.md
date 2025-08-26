@@ -33,7 +33,7 @@ This application demonstrates how individuals can prove they are of legal age wi
 
 2. **Project Setup:**
    ```bash
-   git clone [https://github.com/pranav2564/Nillion-Age-Verification.git]
+   git clone [https://github.com/dhanush-adi/nillion-age-verification]
    cd scaffold-nillion-age-verification
    yarn install
 
